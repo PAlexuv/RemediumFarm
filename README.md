@@ -19,7 +19,6 @@ Test Automation for remediumfarm.ro
 
 - [@alexpascal](https://www.github.com/PAlexuv)
 
-
 ## Badges
 Attended [https://scoalainformala.ro/](https://scoalainformala.ro/)
 
