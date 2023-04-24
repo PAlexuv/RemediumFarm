@@ -1,0 +1,16 @@
+{
+  "registerValidDataRF":
+          [
+
+            {
+              "prenumeField": "Alexandru",
+              "numeField": "Pascal",
+              "telefonField": "0742755577",
+              "emailField": "alexandrupascal@yahoo.com",
+              "parolaField": "Parola123",
+              "confParolaField": "Parola123"
+            }
+
+          ]
+
+}
